@@ -22,12 +22,12 @@ Either as you go or after you are done writing your program, answer the followin
 
 **What did Copilot do well as the driver?**
 
-Write your response here!
+It wrote over 100 conditions and responses for random questions.
 
 **What did Copilot struggle with as the driver?**
 
-Write your response here!
+It took a few minutes to generate hundreds of lines of code.
 
 **What challenges did you face while working with Copilot as the driver?**
 
-Write your response here!
+It originally gave me the response of "I do not have access to the system clock" for what time is it, even though it did have access. I had to specifically ask it for that.

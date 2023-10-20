@@ -144,7 +144,6 @@ public class ByteBud {
  * The input text is first converted to lower case to ensure case-insensitive matching.
  * If the input text doesn't match any of the predefined phrases, a default message is
  * returned indicating that the bot didn't understand the input.
- *
  * @param inputText The user's input text.
  * @return A string containing the bot's response.
  */
